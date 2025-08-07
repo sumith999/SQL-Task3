@@ -47,10 +47,12 @@ This task demonstrates basic SELECT queries using the `Library` database created
 
 
 ---
+## 💡 Author
 
- Author
-Sumith Poojary
-📎 GitHub: sumith999
+**Sumith Poojary**  
+GitHub: [sumith999](https://github.com/sumith999)
+
+---
 
 
 
