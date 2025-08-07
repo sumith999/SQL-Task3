@@ -35,7 +35,6 @@ This task demonstrates basic SELECT queries using the `Library` database created
 \## How to Run
 
 
-
 1\. Open `task3.sql` in MySQL Workbench  
 
 2\. Connect to your server  
@@ -47,16 +46,11 @@ This task demonstrates basic SELECT queries using the `Library` database created
 5\. View results in the output grid
 
 
-
-
-
 ---
 
-
-
-\*\*Author\*\*: Sumith Poojary  
-
-GitHub: \[sumith999](https://github.com/sumith999)
+ Author
+Sumith Poojary
+📎 GitHub: sumith999
 
 
 
