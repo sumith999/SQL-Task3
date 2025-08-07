@@ -1,4 +1,4 @@
-\#  SQL - Task 3: Writing Basic SELECT Queries
+#  SQL - Task 3: Writing Basic SELECT Queries
 
 
 
@@ -6,7 +6,7 @@ This task demonstrates basic SELECT queries using the `Library` database created
 
 
 
-\## Contents
+## Contents
 
 
 
@@ -16,7 +16,7 @@ This task demonstrates basic SELECT queries using the `Library` database created
 
 
 
-\## Key Concepts Covered
+## Key Concepts Covered
 
 
 
@@ -32,7 +32,7 @@ This task demonstrates basic SELECT queries using the `Library` database created
 
 
 
-\## How to Run
+## How to Run
 
 
 1\. Open `task3.sql` in MySQL Workbench  
@@ -47,7 +47,7 @@ This task demonstrates basic SELECT queries using the `Library` database created
 
 
 ---
-## 💡 Author
+##  Author
 
 **Sumith Poojary**  
 GitHub: [sumith999](https://github.com/sumith999)
